@@ -7,4 +7,4 @@ INSTRUCTIONS
 2. Run client.bat file.
 
 *To connect to a different device enter IP of device hosting a server in Client.java
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://github.com/sanket082/JavaIntraChat/blob/master/Capture.PNG)
